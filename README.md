@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1xkldxQEz4FK6/giphy.gif" alt="Code Animation" width="350" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding animation" width="350" />
 </p>
 
 ---
