@@ -48,7 +48,7 @@ My passion extends into **mobile development** and **AI-powered solutions**, con
 
 | Project | Description | Tech Highlights |
 | -------- | ----------- | --------------- |
-| 🔗 [**LinkVault**](https://github.com/KritamBanDev/linkvault) | Privacy-focused URL shortener with custom domains and detailed analytics. | Next.js, MongoDB, Tailwind CSS |
+| 🔗 [**BitLinks**]([https://github.com/KritamBanDev/linkvault](https://bitlinks-kritamban.vercel.app/)) | Privacy-focused URL shortener with custom domains and detailed analytics. | Next.js, MongoDB, Tailwind CSS |
 | 🛒 [**ShopEase**](https://github.com/KritamBanDev/shopease) | Scalable e-commerce app with product filters, cart & Stripe payment gateway. | React, Node.js, Express, Stripe |
 | 🤝 [**CreatorConnect**](https://github.com/KritamBanDev/creatorconnect) | Subscription platform for creators to monetize content & engage with fans. | Next.js, MongoDB, JWT Auth |
 | 📱 [**TravelMate**](https://github.com/KritamBanDev/travelmate) | React Native app helping travelers plan trips and share experiences. | React Native, Expo, Firebase |
