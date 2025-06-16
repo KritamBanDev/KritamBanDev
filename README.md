@@ -29,11 +29,12 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 
 ## 🚀 What I’m Working On & Learning
 
-| Project Name    | Description                                               | Tech Stack                            | Link                                                                                  |
-| --------------- | --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------- |
-| **BitLinks**    | Privacy-focused URL shortener with real-time analytics    | Next.js, MongoDB, Tailwind, Vercel  | [Live Demo](https://bitlinks-kritamban.vercel.app)                                   |
-| **ShopEase**    | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | [GitHub Repo](https://github.com/KritamBanDev/shopease)                              |
-| **CreatorConnect** | Creator monetization & subscription platform             | Next.js, MongoDB, JWT               | [GitHub Repo](https://github.com/KritamBanDev/creatorconnect)                        |
+| Project Name      | Description                                               | Tech Stack                            | Link                                                                                                                    |
+| ----------------- | --------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **BitLinks**      | Privacy-focused URL shortener with real-time analytics    | Next.js, MongoDB, Tailwind, Vercel  | <a href="https://bitlinks-kritamban.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>                   |
+| **ShopEase**      | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | <a href="https://github.com/KritamBanDev/shopease" target="_blank" rel="noopener noreferrer">GitHub Repo</a>              |
+| **CreatorConnect**| Creator monetization & subscription platform             | Next.js, MongoDB, JWT               | <a href="https://github.com/KritamBanDev/creatorconnect" target="_blank" rel="noopener noreferrer">GitHub Repo</a>         |
+                   |
 
 🎯 Currently learning: React Native, Docker & Kubernetes, AI/ML fundamentals, and advanced CI/CD pipelines.
 
