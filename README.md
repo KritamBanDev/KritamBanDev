@@ -131,5 +131,5 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer waving hand" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Thumbs up animation" width="120" />
 </p>
