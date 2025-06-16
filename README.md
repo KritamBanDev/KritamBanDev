@@ -1,7 +1,3 @@
-<!--
-README for KritamBanDev — Ultimate Job-Ready Profile
--->
-
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Kritam Ban</h1>
 <h3 align="center">💻 MERN Stack Developer | ⚛️ Next.js Specialist | AI & Mobile Apps Enthusiast</h3>
@@ -24,9 +20,10 @@ I create robust, scalable, and user-friendly web applications, emphasizing clean
 My passion extends into **mobile development** and **AI-powered solutions**, constantly pushing my limits to build future-ready apps.
 
 - 🔭 **Currently building:**
-  - 🚀 **CreatorConnect** – A Patreon-like platform empowering creators to monetize & grow communities.
+  - 🚀 **BitLinks** – A privacy-focused URL shortener with custom domains, detailed analytics, and a sleek UI.  
+    [https://bitlinks-kritamban.vercel.app](https://bitlinks-kritamban.vercel.app)
   - 🛍️ **ShopEase** – An intuitive e-commerce platform with real-time inventory & Stripe integration.
-  - 🔗 **LinkVault** – A privacy-first URL shortener with deep analytics and custom domain support.
+  - 🤝 **CreatorConnect** – A Patreon-like platform empowering creators to monetize & grow communities.
 
 - 🌱 **Learning:**  
   React Native & Expo | AI/ML fundamentals | Docker & CI/CD pipelines
@@ -48,7 +45,7 @@ My passion extends into **mobile development** and **AI-powered solutions**, con
 
 | Project | Description | Tech Highlights |
 | -------- | ----------- | --------------- |
-| 🔗 [**BitLinks**]([https://github.com/KritamBanDev/linkvault](https://bitlinks-kritamban.vercel.app/)) | Privacy-focused URL shortener with custom domains and detailed analytics. | Next.js, MongoDB, Tailwind CSS |
+| 🔗 [**BitLinks**](https://bitlinks-kritamban.vercel.app) | Privacy-focused URL shortener with custom domains, detailed analytics, and a sleek UI. | Next.js, MongoDB, Tailwind CSS, Vercel |
 | 🛒 [**ShopEase**](https://github.com/KritamBanDev/shopease) | Scalable e-commerce app with product filters, cart & Stripe payment gateway. | React, Node.js, Express, Stripe |
 | 🤝 [**CreatorConnect**](https://github.com/KritamBanDev/creatorconnect) | Subscription platform for creators to monetize content & engage with fans. | Next.js, MongoDB, JWT Auth |
 | 📱 [**TravelMate**](https://github.com/KritamBanDev/travelmate) | React Native app helping travelers plan trips and share experiences. | React Native, Expo, Firebase |
