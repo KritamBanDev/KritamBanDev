@@ -106,7 +106,7 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 ## 🎉 Fun Facts & Interests
 
 <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" alt="Fun gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right" alt="Fun gif" />
   Besides coding, I enjoy:
   <ul>
     <li>🚴‍♂️ Cycling adventures</li>
