@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Code Animation" width="350" />
+  <img src="https://media.giphy.com/media/1xkldxQEz4FK6/giphy.gif" alt="Code Animation" width="350" />
 </p>
 
 ---
@@ -34,7 +34,6 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 | **BitLinks**      | Privacy-focused URL shortener with real-time analytics    | Next.js, MongoDB, Tailwind, Vercel  | <a href="https://bitlinks-kritamban.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>                   |
 | **ShopEase**      | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | <a href="https://github.com/KritamBanDev/shopease" target="_blank" rel="noopener noreferrer">GitHub Repo</a>              |
 | **CreatorConnect**| Creator monetization & subscription platform             | Next.js, MongoDB, JWT               | <a href="https://github.com/KritamBanDev/creatorconnect" target="_blank" rel="noopener noreferrer">GitHub Repo</a>         |
-                   |
 
 🎯 Currently learning: React Native, Docker & Kubernetes, AI/ML fundamentals, and advanced CI/CD pipelines.
 
@@ -107,7 +106,7 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 ## 🎉 Fun Facts & Interests
 
 <p>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="160" align="right" alt="Fun gif" />
+  <img src="https://media.giphy.com/media/3o7aD6y6dKqJwD0vGU/giphy.gif" width="160" align="right" alt="Fun gif" />
   Besides coding, I enjoy:
   <ul>
     <li>🚴‍♂️ Cycling adventures</li>
