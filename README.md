@@ -1,93 +1,135 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Kritam Ban</h1>
-<h3 align="center">💻 MERN Stack Developer | ⚛️ Next.js Specialist | AI & Mobile Apps Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps;Passionate+About+Clean+Code;Exploring+AI+%26+Mobile+Development" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey+There!+I'm+Kritam+👋&fontSize=55&animation=fadeIn" alt="Greeting waving hand" />
 </p>
 
-<!-- Profile gif -->
+<h1 align="center" style="margin-top: -30px; font-weight: 900; color: #0D9488;">
+  Kritam Ban
+</h1>
+<h3 align="center" style="font-weight: 600; color: #374151; font-style: italic;">
+  MERN Stack Developer | Next.js Expert | Building Scalable & Clean Web Apps
+</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=700&height=50&lines=Passionate+About+Clean+Code;Building+Modern+Web+Applications;Exploring+AI+%26+Mobile+Tech" alt="Typing animation" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I’m a **Full-Stack Developer** based in Nepal 🇳🇵 specializing in **MERN Stack** & **Next.js**.  
-I create robust, scalable, and user-friendly web applications, emphasizing clean architecture and performance.  
-My passion extends into **mobile development** and **AI-powered solutions**, constantly pushing my limits to build future-ready apps.
-
-- 🔭 **Currently building:**
-  - 🚀 **BitLinks** – A privacy-focused URL shortener with custom domains, detailed analytics, and a sleek UI.  
-    [https://bitlinks-kritamban.vercel.app](https://bitlinks-kritamban.vercel.app)
-  - 🛍️ **ShopEase** – An intuitive e-commerce platform with real-time inventory & Stripe integration.
-  - 🤝 **CreatorConnect** – A Patreon-like platform empowering creators to monetize & grow communities.
-
-- 🌱 **Learning:**  
-  React Native & Expo | AI/ML fundamentals | Docker & CI/CD pipelines
-
-- 📫 **Reach me:**  
-  [kritamban2003@gmail.com](mailto:kritamban2003@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma,vercel" alt="Tech Stack Icons" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Code Animation" width="350" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 👨‍💻 About Me
 
-| Project | Description | Tech Highlights |
-| -------- | ----------- | --------------- |
-| 🔗 [**BitLinks**](https://bitlinks-kritamban.vercel.app) | Privacy-focused URL shortener with custom domains, detailed analytics, and a sleek UI. | Next.js, MongoDB, Tailwind CSS, Vercel |
-| 🛒 [**ShopEase**](https://github.com/KritamBanDev/shopease) | Scalable e-commerce app with product filters, cart & Stripe payment gateway. | React, Node.js, Express, Stripe |
-| 🤝 [**CreatorConnect**](https://github.com/KritamBanDev/creatorconnect) | Subscription platform for creators to monetize content & engage with fans. | Next.js, MongoDB, JWT Auth |
-| 📱 [**TravelMate**](https://github.com/KritamBanDev/travelmate) | React Native app helping travelers plan trips and share experiences. | React Native, Expo, Firebase |
-| 🧠 [**SmartScheduler**](https://github.com/KritamBanDev/smartscheduler) | AI-powered calendar app that optimizes schedules using machine learning. | Python, TensorFlow, Flask |
+I'm Kritam Ban — a dedicated MERN stack developer passionate about crafting performant, maintainable, and user-friendly web apps. With a strong foundation in Next.js and backend APIs, I enjoy turning ideas into scalable solutions that make an impact.
+
+Currently expanding my expertise into AI/ML and mobile app development to stay on the cutting edge of technology.
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 What I’m Working On & Learning
+
+| Project Name    | Description                                               | Tech Stack                            | Link                                                                                  |
+| --------------- | --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------- |
+| **BitLinks**    | Privacy-focused URL shortener with real-time analytics    | Next.js, MongoDB, Tailwind, Vercel  | [Live Demo](https://bitlinks-kritamban.vercel.app)                                   |
+| **ShopEase**    | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | [GitHub Repo](https://github.com/KritamBanDev/shopease)                              |
+| **CreatorConnect** | Creator monetization & subscription platform             | Next.js, MongoDB, JWT               | [GitHub Repo](https://github.com/KritamBanDev/creatorconnect)                        |
+
+🎯 Currently learning: React Native, Docker & Kubernetes, AI/ML fundamentals, and advanced CI/CD pipelines.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KritamBanDev&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KritamBanDev&theme=radical" width="48%" alt="GitHub Streak" />
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="45" height="45" />
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" width="45" height="45" />
+  <img alt="React" src="https://skillicons.dev/icons?i=react" width="45" height="45" />
+  <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
+  <img alt="Express" src="https://skillicons.dev/icons?i=express" width="45" height="45" />
+  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" />
+  <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="45" height="45" />
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="45" height="45" />
+  <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
 </p>
 
 ---
 
-### 💬 Favorite Quote
+## 💡 Programming Languages & Academic Skills (BSc. CSIT)
 
-> *“Programs must be written for people to read, and only incidentally for machines to execute.”*  
-> — Harold Abelson
+- **C, C++** — OOP, data structures, algorithms  
+- **Java** — Object-oriented design & software development  
+- **Python** — Scripting, automation, and AI basics  
+- **SQL** — Relational databases & complex queries  
+- **HTML5, CSS3, JavaScript (ES6+)** — Web fundamentals  
 
 ---
 
-### 🎉 Fun Fact & Vibes
+## 📊 Skill Proficiency
 
-<p align="left">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" align="right" alt="Fun GIF" />
-  I’m fueled by ☕ coffee and 🧘 calm beats. Late night coding sessions are my creative prime time.  
-  I believe in writing <strong>clean, efficient</strong> code that solves real problems.
+| Skill        | Level          |
+| ------------ | -------------- |
+| JavaScript   | ▰▰▰▰▰▰▰▰▰▰ Advanced |
+| React.js     | ▰▰▰▰▰▰▰▰▰▰ Advanced |
+| Next.js      | ▰▰▰▰▰▰▰▰▰▱ Intermediate |
+| Node.js      | ▰▰▰▰▰▰▰▰▱▱ Intermediate |
+| MongoDB      | ▰▰▰▰▰▰▰▰▰▱ Intermediate |
+| TypeScript   | ▰▰▰▰▰▰▰▱▱▱ Beginner |
+| Docker       | ▰▰▰▱▱▱▱▱▱▱ Beginner |
+| AI / ML      | ▰▰▰▰▱▱▱▱▱▱ Beginner |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KritamBanDev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KritamBanDev&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 📬 Let’s Collaborate!
+## 🎯 Certifications & Achievements
 
-I’m actively looking for **full-time roles**, **internships**, or **freelance projects** where I can contribute, grow, and create.  
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/kritamban/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms-green?style=for-the-badge&logo=freecodecamp" alt="freeCodeCamp JavaScript Certification" />
+  </a>
+  <!-- Add more certifications here -->
+</p>
 
-Feel free to reach out via email:  
-**[kritamban2003@gmail.com](mailto:kritamban2003@gmail.com)**
+---
+
+## 🎉 Fun Facts & Interests
+
+<p>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="160" align="right" alt="Fun gif" />
+  Besides coding, I enjoy:
+  <ul>
+    <li>🚴‍♂️ Cycling adventures</li>
+    <li>📚 Reading tech blogs & tutorials</li>
+    <li>☕ Coffee-fueled late-night coding sessions</li>
+    <li>🤖 Exploring AI and Machine Learning trends</li>
+  </ul>
+</p>
+
+---
+
+## 📬 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:kritamban2003@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-kritamban2003@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Add LinkedIn, Twitter etc. when ready -->
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer waving hand" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer waving hand" />
 </p>
