@@ -32,7 +32,7 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 | Project Name      | Description                                               | Tech Stack                            | Link                                                                                                                    |
 | ----------------- | --------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **BitLinks**      | Privacy-focused URL shortener with real-time analytics    | Next.js, MongoDB, Tailwind, Vercel  | <a href="https://bitlinks-kritamban.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>                   |
-| **E-commerce**      | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | <a href="https://github.com/KritamBanDev/ecommerce" target="_blank" rel="noopener noreferrer">GitHub Repo</a>              |
+| **E-commerce**      | Full-featured e-commerce platform with payment integration| React, Node.js, Express, Stripe     | <a href="https://ecommerce-kritamban.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>              |
 | **CreatorConnect**| Creator monetization & subscription platform             | Next.js, MongoDB, JWT               | <a href="https://github.com/KritamBanDev/creatorconnect" target="_blank" rel="noopener noreferrer">GitHub Repo</a>         |
 
 🎯 Currently learning: React Native, Docker & Kubernetes, AI/ML fundamentals, and advanced CI/CD pipelines.
@@ -106,7 +106,7 @@ Currently expanding my expertise into AI/ML and mobile app development to stay o
 ## 🎉 Fun Facts & Interests
 
 <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right" alt="Fun gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right" alt="Fun gif" />
   Besides coding, I enjoy:
   <ul>
     <li>🚴‍♂️ Cycling adventures</li>
